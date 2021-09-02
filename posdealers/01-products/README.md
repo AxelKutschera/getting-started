@@ -38,7 +38,7 @@ Folgende TSE können KassenHändler von fiskaltrust für den Wiederverkauf an Ka
 
 #### Cloud TSE
 
-- [A-Trust](https://docs.fiskaltrust.cloud/de/docs/product-description/germany/products-and-services/caas/features/basics/tse/a-trust)
+- [A-Trust](https://docs.fiskaltrust.cloud/de/docs/product-description/germany/products-and-services/caas/features/basics/tse/a-trust) *)
 - [Deutsche Fiskal](https://docs.fiskaltrust.cloud/de/docs/product-description/germany/products-and-services/caas/features/basics/tse/deutsche-fiskal)
 - [Swissbit Cloud](https://docs.fiskaltrust.cloud/de/docs/product-description/germany/products-and-services/caas/features/basics/tse/swissbit-cloud)
 - [fiskaly](https://docs.fiskaltrust.cloud/de/docs/product-description/germany/products-and-services/caas/features/basics/tse/fiskaly)
@@ -64,7 +64,7 @@ Folgende TSE können von KassenHerstellern für den Wiederverkauf an KassenBetre
 
 #### Cloud TSE
 
-- [A-Trust](https://docs.fiskaltrust.cloud/de/docs/product-description/germany/products-and-services/caas/features/basics/tse/a-trust)
+- [A-Trust](https://docs.fiskaltrust.cloud/de/docs/product-description/germany/products-and-services/caas/features/basics/tse/a-trust) *)
 - [Deutsche Fiskal](https://docs.fiskaltrust.cloud/de/docs/product-description/germany/products-and-services/caas/features/basics/tse/deutsche-fiskal)
 - [Swissbit Cloud](https://docs.fiskaltrust.cloud/de/docs/product-description/germany/products-and-services/caas/features/basics/tse/swissbit-cloud)
 - [fiskaly](https://docs.fiskaltrust.cloud/de/docs/product-description/germany/products-and-services/caas/features/basics/tse/fiskaly)
@@ -75,3 +75,7 @@ Folgende TSE können von KassenHerstellern für den Wiederverkauf an KassenBetre
 - [Diebold Nixdorf](https://docs.fiskaltrust.cloud/de/docs/product-description/germany/products-and-services/caas/features/basics/tse/diebold-nixdorf)
 - [Epson](https://docs.fiskaltrust.cloud/de/docs/product-description/germany/products-and-services/caas/features/basics/tse/epson)
 - [Swissbit](https://docs.fiskaltrust.cloud/de/docs/product-description/germany/products-and-services/caas/features/basics/tse/swissbit)
+
+
+
+*) **Update 06.08.2021:** a-trust pausiert das Produkt [Link @a-trust: "Status Update August" ](https://www.a-trust-tse.de/de/kassensichv/news/news/status-update-august/)
